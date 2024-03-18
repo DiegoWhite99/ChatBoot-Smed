@@ -1,0 +1,293 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573144575755@s.whatsapp.net',
+    fromMe: false,
+    id: 'D854D7132DCD88BD17C673DC0A0C89F5',
+    participant: undefined
+  },
+  messageTimestamp: 1710724442,
+  pushName: 'Luis Castillo👨🏾‍💻',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '573144575755'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573144575755@s.whatsapp.net',
+    fromMe: false,
+    id: 'D854D7132DCD88BD17C673DC0A0C89F5',
+    participant: undefined
+  },
+  messageTimestamp: 1710724443,
+  pushName: 'Luis Castillo👨🏾‍💻',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Holaaa',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Holaaa',
+  from: '573144575755'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573144575755@s.whatsapp.net',
+    fromMe: false,
+    id: 'D854D7132DCD88BD17C673DC0A0C89F5',
+    participant: undefined
+  },
+  messageTimestamp: 1710724443,
+  pushName: 'Luis Castillo👨🏾‍💻',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Holaaa',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Holaaa',
+  from: '573144575755'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d4c2e9d8-ebac-400e-95d0-41aa53e9794b',
+  keyword: 'key_8bbdd886-7e55-43bf-a811-1fc99dac21cd',
+  answer: 'Hola! Soy smedy 🤖 el asistente virtual de *SMED TECHNOLOGY*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '06f89065c08f76deec7844c4ec063810'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d4c2e9d8-ebac-400e-95d0-41aa53e9794b',
+  keyword: 'key_8bbdd886-7e55-43bf-a811-1fc99dac21cd',
+  answer: 'Hola! Soy smedy 🤖 el asistente virtual de *SMED TECHNOLOGY*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '06f89065c08f76deec7844c4ec063810'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b75fea52-b989-4d08-94b3-4c3dc8ac9831',
+  keyword: 'ans_d4c2e9d8-ebac-400e-95d0-41aa53e9794b',
+  answer: 'Por favor seleccione alguna de estas opciones:\n' +
+    '\n' +
+    '📅 *1*.Programa una cita de servicio técnico.\n' +
+    '👨‍💻 *2*.Para solicitar una asesoría\n' +
+    '📃 *3*.Solicitar nuestro catálogo de productos\n' +
+    '📱👨‍💻 *4*.Comunicarte con un asesor',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '61205a6af41d8826c65e341a7ca73af9'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b75fea52-b989-4d08-94b3-4c3dc8ac9831',
+  keyword: 'ans_d4c2e9d8-ebac-400e-95d0-41aa53e9794b',
+  answer: 'Por favor seleccione alguna de estas opciones:\n' +
+    '\n' +
+    '📅 *1*.Programa una cita de servicio técnico.\n' +
+    '👨‍💻 *2*.Para solicitar una asesoría\n' +
+    '📃 *3*.Solicitar nuestro catálogo de productos\n' +
+    '📱👨‍💻 *4*.Comunicarte con un asesor',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '61205a6af41d8826c65e341a7ca73af9'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573144575755@s.whatsapp.net',
+    fromMe: false,
+    id: '93564809890BF1E1E229A1A698726A63',
+    participant: undefined
+  },
+  messageTimestamp: 1710724480,
+  pushName: 'Luis Castillo👨🏾‍💻',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573144575755'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c82b4fda-f03a-4bef-8f4d-7707c97126e6',
+  keyword: 'key_99d50a89-0707-4563-866a-c00a14ae7093',
+  answer: ' hola soy smedy 🤖 y te voy a yudar a agendar tu cita \n' +
+    ' porfavor ingresa al siguinte link\n' +
+    'https://forms.gle/bqSX7BEqniUFD9q16',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '11bde19d1ddf00574b6e1a38ece4545f'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573208142356@s.whatsapp.net',
+    fromMe: false,
+    id: 'FBA31AE279DA7B9A1D40F8019A9D462F',
+    participant: undefined
+  },
+  messageTimestamp: 1710724720,
+  pushName: 'Elizabeth Jimenez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573208142356'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d4c2e9d8-ebac-400e-95d0-41aa53e9794b',
+  keyword: 'key_8bbdd886-7e55-43bf-a811-1fc99dac21cd',
+  answer: 'Hola! Soy smedy 🤖 el asistente virtual de *SMED TECHNOLOGY*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '06f89065c08f76deec7844c4ec063810'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b75fea52-b989-4d08-94b3-4c3dc8ac9831',
+  keyword: 'ans_d4c2e9d8-ebac-400e-95d0-41aa53e9794b',
+  answer: 'Por favor seleccione alguna de estas opciones:\n' +
+    '\n' +
+    '📅 *1*.Programa una cita de servicio técnico.\n' +
+    '👨‍💻 *2*.Para solicitar una asesoría\n' +
+    '📃 *3*.Solicitar nuestro catálogo de productos\n' +
+    '📱👨‍💻 *4*.Comunicarte con un asesor',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '61205a6af41d8826c65e341a7ca73af9'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573208142356@s.whatsapp.net',
+    fromMe: false,
+    id: '937F2A2B4A307E55E4D7A5DCDEA7272C',
+    participant: undefined
+  },
+  messageTimestamp: 1710724727,
+  pushName: 'Elizabeth Jimenez',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573208142356'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c82b4fda-f03a-4bef-8f4d-7707c97126e6',
+  keyword: 'key_99d50a89-0707-4563-866a-c00a14ae7093',
+  answer: ' hola soy smedy 🤖 y te voy a yudar a agendar tu cita \n' +
+    ' porfavor ingresa al siguinte link\n' +
+    'https://forms.gle/bqSX7BEqniUFD9q16',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '11bde19d1ddf00574b6e1a38ece4545f'
+}
